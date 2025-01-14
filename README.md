@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/03fe950f-0b31-4114-823a-e5da089f6f8c)
-Project Description for Resume
+Project Description :
 
 AI-Powered Chat Application  
 Technologies Used: Spring Boot, Thymeleaf, PostgreSQL, Java, REST API, JavaScript, Bootstrap, Axios  
